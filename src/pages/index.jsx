@@ -194,6 +194,9 @@ const Index = () => (
               <IconLink target="_blank" href="https://www.youtube.com/user/FarzaTV">
                 <SVGIcon icon="youtube" width={8} stroke={colors.green} fill={colors.green} />
               </IconLink>
+              <IconLink target="_blank" href="https://github.com/farzaa">
+                <SVGIcon icon="github" width={8} stroke={colors.green} fill={colors.green} />
+              </IconLink>
             </div>
         </Hero>
       </Content>
